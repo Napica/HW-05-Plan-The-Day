@@ -81,49 +81,49 @@ $(document).ready(function () {
       time1100text.addClass("past");
     }
     var time1200text = hour1200;
-    if (momentTime === 11) {
+    if (momentTime === 12) {
       time1200text.addClass("present");
-    } else if (momentTime < 11) {
+    } else if (momentTime < 12) {
       time1200text.addClass("future");
     } else {
       time1200text.addClass("past");
     }
     var time1300text = hour1300;
-    if (momentTime === 11) {
+    if (momentTime === 13) {
       time1300text.addClass("present");
-    } else if (momentTime < 11) {
+    } else if (momentTime < 13) {
       time1300text.addClass("future");
     } else {
       time1300text.addClass("past");
     }
     var time1400text = hour1400;
-    if (momentTime === 11) {
+    if (momentTime === 14) {
       time1400text.addClass("present");
-    } else if (momentTime < 11) {
+    } else if (momentTime < 14) {
       time1400text.addClass("future");
     } else {
       time1400text.addClass("past");
     }
     var time1500text = hour1500;
-    if (momentTime === 11) {
+    if (momentTime === 15) {
       time1500text.addClass("present");
-    } else if (momentTime < 11) {
+    } else if (momentTime < 15) {
       time1500text.addClass("future");
     } else {
       time1500text.addClass("past");
     }
     var time1600text = hour1600;
-    if (momentTime === 11) {
+    if (momentTime === 16) {
       time1600text.addClass("present");
-    } else if (momentTime < 11) {
+    } else if (momentTime < 16) {
       time1600text.addClass("future");
     } else {
       time1600text.addClass("past");
     }
     var time1700text = hour1700;
-    if (momentTime === 11) {
+    if (momentTime === 17) {
       time1700text.addClass("present");
-    } else if (momentTime < 11) {
+    } else if (momentTime < 17) {
       time1700text.addClass("future");
     } else {
       time1700text.addClass("past");
